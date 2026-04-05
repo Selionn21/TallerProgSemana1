@@ -1,0 +1,7 @@
+E:\Unity Projects\TallerProgSemana1\Tarea1_TallerProgramación\Tarea1_TallerProgramación\bin\Debug\Tarea1_TallerProgramación.exe.config
+E:\Unity Projects\TallerProgSemana1\Tarea1_TallerProgramación\Tarea1_TallerProgramación\bin\Debug\Tarea1_TallerProgramación.exe
+E:\Unity Projects\TallerProgSemana1\Tarea1_TallerProgramación\Tarea1_TallerProgramación\bin\Debug\Tarea1_TallerProgramación.pdb
+E:\Unity Projects\TallerProgSemana1\Tarea1_TallerProgramación\Tarea1_TallerProgramación\obj\Debug\Tarea1_TallerProgramación.csproj.AssemblyReference.cache
+E:\Unity Projects\TallerProgSemana1\Tarea1_TallerProgramación\Tarea1_TallerProgramación\obj\Debug\Tarea1_TallerProgramación.csproj.CoreCompileInputs.cache
+E:\Unity Projects\TallerProgSemana1\Tarea1_TallerProgramación\Tarea1_TallerProgramación\obj\Debug\Tarea1_TallerProgramación.exe
+E:\Unity Projects\TallerProgSemana1\Tarea1_TallerProgramación\Tarea1_TallerProgramación\obj\Debug\Tarea1_TallerProgramación.pdb
