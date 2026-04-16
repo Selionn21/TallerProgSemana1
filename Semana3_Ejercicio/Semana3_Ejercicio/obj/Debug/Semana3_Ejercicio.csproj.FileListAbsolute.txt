@@ -1,0 +1,7 @@
+E:\Unity Projects\TallerProgSemana1\Semana3_Ejercicio\Semana3_Ejercicio\obj\Debug\Semana3_Ejercicio.csproj.AssemblyReference.cache
+E:\Unity Projects\TallerProgSemana1\Semana3_Ejercicio\Semana3_Ejercicio\obj\Debug\Semana3_Ejercicio.csproj.CoreCompileInputs.cache
+E:\Unity Projects\TallerProgSemana1\Semana3_Ejercicio\Semana3_Ejercicio\bin\Debug\Semana3_Ejercicio.exe.config
+E:\Unity Projects\TallerProgSemana1\Semana3_Ejercicio\Semana3_Ejercicio\bin\Debug\Semana3_Ejercicio.exe
+E:\Unity Projects\TallerProgSemana1\Semana3_Ejercicio\Semana3_Ejercicio\bin\Debug\Semana3_Ejercicio.pdb
+E:\Unity Projects\TallerProgSemana1\Semana3_Ejercicio\Semana3_Ejercicio\obj\Debug\Semana3_Ejercicio.exe
+E:\Unity Projects\TallerProgSemana1\Semana3_Ejercicio\Semana3_Ejercicio\obj\Debug\Semana3_Ejercicio.pdb
